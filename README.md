@@ -115,7 +115,7 @@ Next:
                                :disable_back_links => true},
                    :outline => {:outline           => true,
                                 :outline_depth     => LEVEL},
-		   :save_to_file => "path_to_save_file",
+		           :save_to_file => "path_to_save_file",
                    :save_only => false
           end
         end
